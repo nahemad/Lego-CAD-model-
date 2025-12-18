@@ -3,4 +3,4 @@ I made each individual lego piece of a train lego set, and assembled it in Autod
 
 ## 🔽 Download CAD Model
 
-👉 **[Download STEP file](model.step)**
+👉 **[Download STEP file](Final_Lego_Set.step)**
